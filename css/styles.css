@@ -142,6 +142,13 @@ body{
 }
 
 @media only screen and (max-width: 480px){
+#twitter, #new-quote{
+  margin: 1rem;
+  width: 75%; 
+}
+}
+
+@media only screen and (max-width: 480px){
 #footer{
   text-align: center;
 }
