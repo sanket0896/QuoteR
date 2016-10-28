@@ -3,8 +3,8 @@ $(document).ready(function(){
 		
 	var lastQuoteItem = {lastQuote:''};
 	var lastColorItem = {lastColor:'',lastBgColor:''};
-	var colorsJSON="/assets/colors.json";
-	var quotesJSON="/assets/quotes.json";
+	var colorsJSON="https://raw.githubusercontent.com/sanket0896/QuoteR/master/assets/colors.JSON";
+	var quotesJSON="https://raw.githubusercontent.com/sanket0896/QuoteR/master/assets/quotes.JSON";
 	var x,y;
 
 	function tweetThis(text){
