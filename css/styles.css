@@ -101,12 +101,17 @@ body{
   font-size: 1.15rem;
 }
 
-#footer a{
+.personal-website-link{
   color: #000;
   text-decoration: underline;
   font-size: 1.25rem;
   margin-left: 7px;
 } 
+
+.fork{
+  margin-top: 15px;
+  display: block;
+}
 
 /************** Mobile Responsive Media Queries *************/
 @media only screen and (max-width: 860px){
