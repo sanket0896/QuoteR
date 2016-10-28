@@ -96,7 +96,8 @@ body{
 }
 
 #footer{
-  position: relative;
+  position: fixed;
+  right: 0;
   padding: 1rem 2rem;
   color: #000;
   font-size: 1.15rem;
