@@ -144,7 +144,8 @@ body{
 @media only screen and (max-width: 480px){
 #twitter, #new-quote{
   margin: 1rem;
-  width: 75%; 
+  width: 75%;
+  padding: 1rem;
 }
 }
 
