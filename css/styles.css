@@ -67,12 +67,12 @@ body{
 
 #new-quote{
   margin-right: 5rem;
-  padding: 0.25rem 1rem ;
+  padding: 0.25rem 1.5rem ;
 }
 
 #twitter{
   margin-left: 5rem;
-  padding: 0.25rem 2.5rem ;
+  padding: 0.25rem 3rem ;
 }
 
 #quote{
@@ -118,13 +118,17 @@ body{
   margin: 0;
 }
 
+#buttons{
+  margin-top: 3rem;
+}
+  
 .btn{
   width: 100%;
 }
 
 #twitter, #new-quote{
   margin: 1rem;
-  width: 75%;
+  width: 60%;
 }
 
 #quote{
