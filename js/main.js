@@ -114,9 +114,4 @@ $(document).ready(function(){
 	accessRandomJSON(colorsJSON,lastColorItem);		
 	accessRandomJSON(quotesJSON,lastQuoteItem);
 	});
-
-	$("#twitter").on('click',function(){
-		location.href = "http://ctt.ec/T5sw6";
-		console.log("gfrt");
-	});
 });
