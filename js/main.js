@@ -11,7 +11,7 @@ $(document).ready(function(){
 		
 		$("#twitter").on('click',function(){
 			var tweetURI = "https://twitter.com/intent/tweet?text="+encodeURIComponent(text);
-			window.location.href=tweetURI;
+			window.open(tweetURI);
 		});
 
 	}
