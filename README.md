@@ -1,4 +1,6 @@
 # QuoteR
 A simple and beautiful random quote generator.
 
-Visit the site: https://sanket0896.github.io/QuoteR/
+It has minimal design and option to share the quote in Twitter.
+
+Visit the site: http://sanketmishra.me/QuoteR/
