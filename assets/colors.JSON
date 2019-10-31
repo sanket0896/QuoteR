@@ -34,5 +34,25 @@
 	{
 		"color" : "#FFA2AD",
 		"bgColor" : "#292929"
+	},
+	{
+		"color" : "#F9BA6D",
+		"bgColor" : "#63221F"
+	},
+	{
+		"color" : "#65C3BA",
+		"bgColor" : "#003333"
+	},
+	{
+		"color" : "#B3CDE0",
+		"bgColor" : "#011F4B"
+	},
+	{
+		"color" : "#F9F9F9",
+		"bgColor" : "#D9534F"
+	},
+	{
+		"color" : "#169872",
+		"bgColor" : "#071E17"
 	}
 ]
